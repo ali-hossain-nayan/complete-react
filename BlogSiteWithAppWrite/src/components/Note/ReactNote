@@ -1,0 +1,6 @@
+***The useState hook is one of the built-in hooks in React that allows functional components to manage state. With the useState hook, you can add and update state within functional components, making it easier to manage and react to changes in your application's data.
+
+***The useEffect hook is another fundamental hook in React that allows you to perform side effects in functional components. Side effects can include data fetching, DOM manipulation, setting up subscriptions, and more. useEffect is a versatile and powerful hook for handling actions that occur outside the usual rendering flow.
+
+***The useContext hook is a built-in React hook that allows functional components to access values from a React context. It simplifies the process of consuming context and makes it easier to share data and state across different components without having to pass props through intermediate components.useContext simplifies the process of consuming context values in React, making it an efficient way to share data and state across different parts of your application without the need for complex prop drilling. It's especially useful for managing global state, themes, authentication status, and more.
+***
